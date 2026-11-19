@@ -1,0 +1,320 @@
+==================================
+MULAI S3 - MQTT QoS 0
+Payload: 20 byte
+==================================
+Menghubungkan MQTT...
+MQTT terhubung!
+Subscribe berhasil!
+scenario,seq,payload,success,rtt_ms,rssi,qos
+Seq 1 Publish: BERHASIL
+Echo diterima: Seq 1 | RTT 680.00 ms
+Seq 2 Publish: BERHASIL
+Echo diterima: Seq 2 | RTT 710.00 ms
+Seq 3 Publish: BERHASIL
+Echo diterima: Seq 3 | RTT 690.00 ms
+Seq 4 Publish: BERHASIL
+Echo diterima: Seq 4 | RTT 730.00 ms
+Seq 5 Publish: BERHASIL
+Seq 6 Publish: BERHASIL
+Seq 7 Publish: BERHASIL
+Seq 8 Publish: BERHASIL
+Seq 9 Publish: BERHASIL
+Seq 10 Publish: BERHASIL
+Menghubungkan MQTT...
+MQTT terhubung!
+Subscribe berhasil!
+Seq 11 Publish: BERHASIL
+Seq 12 Publish: BERHASIL
+Echo diterima: Seq 11 | RTT 106.00 ms
+Echo diterima: Seq 12 | RTT 413.00 ms
+Seq 13 Publish: BERHASIL
+Echo diterima: Seq 13 | RTT 645.00 ms
+Seq 14 Publish: BERHASIL
+Echo diterima: Seq 14 | RTT 745.00 ms
+Seq 15 Publish: BERHASIL
+Echo diterima: Seq 15 | RTT 670.00 ms
+Seq 16 Publish: BERHASIL
+Echo diterima: Seq 16 | RTT 735.00 ms
+Seq 17 Publish: BERHASIL
+Echo diterima: Seq 17 | RTT 749.00 ms
+Seq 18 Publish: BERHASIL
+Echo diterima: Seq 18 | RTT 765.00 ms
+Seq 19 Publish: BERHASIL
+Echo diterima: Seq 19 | RTT 670.00 ms
+Seq 20 Publish: BERHASIL
+Echo diterima: Seq 20 | RTT 730.00 ms
+Seq 21 Publish: BERHASIL
+Echo diterima: Seq 21 | RTT 1355.00 ms
+Seq 22 Publish: BERHASIL
+Echo diterima: Seq 22 | RTT 690.00 ms
+Seq 23 Publish: BERHASIL
+Echo diterima: Seq 23 | RTT 760.00 ms
+Seq 24 Publish: BERHASIL
+Echo diterima: Seq 24 | RTT 665.00 ms
+Seq 25 Publish: BERHASIL
+Echo diterima: Seq 25 | RTT 675.00 ms
+Seq 26 Publish: BERHASIL
+Echo diterima: Seq 26 | RTT 655.00 ms
+Seq 27 Publish: BERHASIL
+Echo diterima: Seq 27 | RTT 644.00 ms
+Seq 28 Publish: BERHASIL
+Echo diterima: Seq 28 | RTT 710.00 ms
+Seq 29 Publish: BERHASIL
+Echo diterima: Seq 29 | RTT 645.00 ms
+Seq 30 Publish: BERHASIL
+Echo diterima: Seq 30 | RTT 680.00 ms
+Seq 31 Publish: BERHASIL
+Echo diterima: Seq 31 | RTT 660.00 ms
+Seq 32 Publish: BERHASIL
+Echo diterima: Seq 32 | RTT 675.00 ms
+Seq 33 Publish: BERHASIL
+Echo diterima: Seq 33 | RTT 655.00 ms
+Seq 34 Publish: BERHASIL
+Echo diterima: Seq 34 | RTT 650.00 ms
+Seq 35 Publish: BERHASIL
+Echo diterima: Seq 35 | RTT 695.00 ms
+Seq 36 Publish: BERHASIL
+Seq 37 Publish: BERHASIL
+Seq 38 Publish: BERHASIL
+Seq 39 Publish: BERHASIL
+Seq 40 Publish: BERHASIL
+Seq 41 Publish: BERHASIL
+Echo diterima: Seq 40 | RTT 3502.00 ms
+Echo diterima: Seq 41 | RTT 1498.00 ms
+Seq 42 Publish: BERHASIL
+Echo diterima: Seq 42 | RTT 640.00 ms
+Seq 43 Publish: BERHASIL
+Echo diterima: Seq 43 | RTT 650.00 ms
+Seq 44 Publish: BERHASIL
+Echo diterima: Seq 44 | RTT 725.00 ms
+Seq 45 Publish: BERHASIL
+Echo diterima: Seq 45 | RTT 775.00 ms
+Seq 46 Publish: BERHASIL
+Echo diterima: Seq 46 | RTT 650.00 ms
+Seq 47 Publish: BERHASIL
+Echo diterima: Seq 47 | RTT 725.00 ms
+Seq 48 Publish: BERHASIL
+Echo diterima: Seq 48 | RTT 670.00 ms
+Seq 49 Publish: BERHASIL
+Echo diterima: Seq 49 | RTT 730.00 ms
+Seq 50 Publish: BERHASIL
+Echo diterima: Seq 50 | RTT 640.00 ms
+Seq 51 Publish: BERHASIL
+Echo diterima: Seq 51 | RTT 650.00 ms
+Seq 52 Publish: BERHASIL
+Echo diterima: Seq 52 | RTT 785.00 ms
+Seq 53 Publish: BERHASIL
+Echo diterima: Seq 53 | RTT 645.00 ms
+Seq 54 Publish: BERHASIL
+Echo diterima: Seq 54 | RTT 785.00 ms
+Seq 55 Publish: BERHASIL
+Echo diterima: Seq 55 | RTT 690.00 ms
+Seq 56 Publish: BERHASIL
+Echo diterima: Seq 56 | RTT 725.00 ms
+Seq 57 Publish: BERHASIL
+Echo diterima: Seq 57 | RTT 1045.00 ms
+Seq 58 Publish: BERHASIL
+Echo diterima: Seq 58 | RTT 790.00 ms
+Seq 59 Publish: BERHASIL
+Echo diterima: Seq 59 | RTT 685.00 ms
+Seq 60 Publish: BERHASIL
+Echo diterima: Seq 60 | RTT 705.00 ms
+Seq 61 Publish: BERHASIL
+Echo diterima: Seq 61 | RTT 650.00 ms
+Seq 62 Publish: BERHASIL
+Echo diterima: Seq 62 | RTT 670.00 ms
+Seq 63 Publish: BERHASIL
+Echo diterima: Seq 63 | RTT 725.00 ms
+Seq 64 Publish: BERHASIL
+Echo diterima: Seq 64 | RTT 1790.00 ms
+Seq 65 Publish: BERHASIL
+Echo diterima: Seq 65 | RTT 721.00 ms
+Seq 66 Publish: BERHASIL
+Echo diterima: Seq 66 | RTT 700.00 ms
+Seq 67 Publish: BERHASIL
+Echo diterima: Seq 67 | RTT 735.00 ms
+Seq 68 Publish: BERHASIL
+Echo diterima: Seq 68 | RTT 730.00 ms
+Seq 69 Publish: BERHASIL
+Echo diterima: Seq 69 | RTT 680.00 ms
+Seq 70 Publish: BERHASIL
+Echo diterima: Seq 70 | RTT 710.00 ms
+Seq 71 Publish: BERHASIL
+Echo diterima: Seq 71 | RTT 715.00 ms
+Seq 72 Publish: BERHASIL
+Echo diterima: Seq 72 | RTT 675.00 ms
+Seq 73 Publish: BERHASIL
+Echo diterima: Seq 73 | RTT 740.00 ms
+Seq 74 Publish: BERHASIL
+Echo diterima: Seq 74 | RTT 765.00 ms
+Seq 75 Publish: BERHASIL
+Echo diterima: Seq 75 | RTT 645.00 ms
+Seq 76 Publish: BERHASIL
+Echo diterima: Seq 76 | RTT 675.00 ms
+Seq 77 Publish: BERHASIL
+Echo diterima: Seq 77 | RTT 670.00 ms
+Seq 78 Publish: BERHASIL
+Echo diterima: Seq 78 | RTT 745.00 ms
+Seq 79 Publish: BERHASIL
+Echo diterima: Seq 79 | RTT 660.00 ms
+Seq 80 Publish: BERHASIL
+Echo diterima: Seq 80 | RTT 770.00 ms
+Seq 81 Publish: BERHASIL
+Echo diterima: Seq 81 | RTT 660.00 ms
+Seq 82 Publish: BERHASIL
+Echo diterima: Seq 82 | RTT 479.00 ms
+Menghubungkan MQTT...
+MQTT terhubung!
+Subscribe berhasil!
+Seq 83 Publish: BERHASIL
+Seq 84 Publish: BERHASIL
+Echo diterima: Seq 83 | RTT 545.00 ms
+Echo diterima: Seq 84 | RTT 677.00 ms
+Seq 85 Publish: BERHASIL
+Echo diterima: Seq 85 | RTT 670.00 ms
+Seq 86 Publish: BERHASIL
+Echo diterima: Seq 86 | RTT 760.00 ms
+Seq 87 Publish: BERHASIL
+Echo diterima: Seq 87 | RTT 725.00 ms
+Seq 88 Publish: BERHASIL
+Echo diterima: Seq 88 | RTT 780.00 ms
+Seq 89 Publish: BERHASIL
+Echo diterima: Seq 89 | RTT 670.00 ms
+Seq 90 Publish: BERHASIL
+Echo diterima: Seq 90 | RTT 680.00 ms
+Seq 91 Publish: BERHASIL
+Echo diterima: Seq 91 | RTT 740.00 ms
+Seq 92 Publish: BERHASIL
+Echo diterima: Seq 92 | RTT 689.00 ms
+Seq 93 Publish: BERHASIL
+Echo diterima: Seq 93 | RTT 675.00 ms
+Seq 94 Publish: BERHASIL
+Echo diterima: Seq 94 | RTT 640.00 ms
+Seq 95 Publish: BERHASIL
+Echo diterima: Seq 95 | RTT 715.00 ms
+Seq 96 Publish: BERHASIL
+Echo diterima: Seq 96 | RTT 615.00 ms
+Seq 97 Publish: BERHASIL
+Echo diterima: Seq 97 | RTT 640.00 ms
+Seq 98 Publish: BERHASIL
+Echo diterima: Seq 98 | RTT 645.00 ms
+Seq 99 Publish: BERHASIL
+Echo diterima: Seq 99 | RTT 685.00 ms
+Seq 100 Publish: BERHASIL
+Echo diterima: Seq 100 | RTT 745.00 ms
+
+===== DATA MQTT =====
+3,1,20,1,680.000,-87,0
+3,2,20,1,710.000,-87,0
+3,3,20,1,690.000,-87,0
+3,4,20,1,730.000,-87,0
+3,5,20,0,0.000,-87,0
+3,6,20,0,0.000,-87,0
+3,7,20,0,0.000,-87,0
+3,8,20,0,0.000,-87,0
+3,9,20,0,0.000,-87,0
+3,10,20,0,0.000,-87,0
+3,11,20,1,106.000,-87,0
+3,12,20,1,413.000,-87,0
+3,13,20,1,645.000,-87,0
+3,14,20,1,745.000,-87,0
+3,15,20,1,670.000,-87,0
+3,16,20,1,735.000,-87,0
+3,17,20,1,749.000,-87,0
+3,18,20,1,765.000,-87,0
+3,19,20,1,670.000,-87,0
+3,20,20,1,730.000,-87,0
+3,21,20,1,1355.000,-87,0
+3,22,20,1,690.000,-87,0
+3,23,20,1,760.000,-87,0
+3,24,20,1,665.000,-87,0
+3,25,20,1,675.000,-87,0
+3,26,20,1,655.000,-87,0
+3,27,20,1,644.000,-87,0
+3,28,20,1,710.000,-87,0
+3,29,20,1,645.000,-87,0
+3,30,20,1,680.000,-87,0
+3,31,20,1,660.000,-87,0
+3,32,20,1,675.000,-87,0
+3,33,20,1,655.000,-87,0
+3,34,20,1,650.000,-87,0
+3,35,20,1,695.000,-87,0
+3,36,20,0,0.000,-87,0
+3,37,20,0,0.000,-87,0
+3,38,20,0,0.000,-87,0
+3,39,20,0,0.000,-87,0
+3,40,20,1,3502.000,-87,0
+3,41,20,1,1498.000,-87,0
+3,42,20,1,640.000,-87,0
+3,43,20,1,650.000,-87,0
+3,44,20,1,725.000,-87,0
+3,45,20,1,775.000,-87,0
+3,46,20,1,650.000,-87,0
+3,47,20,1,725.000,-87,0
+3,48,20,1,670.000,-96,0
+3,49,20,1,730.000,-96,0
+3,50,20,1,640.000,-96,0
+3,51,20,1,650.000,-96,0
+3,52,20,1,785.000,-96,0
+3,53,20,1,645.000,-96,0
+3,54,20,1,785.000,-96,0
+3,55,20,1,690.000,-96,0
+3,56,20,1,725.000,-96,0
+3,57,20,1,1045.000,-96,0
+3,58,20,1,790.000,-96,0
+3,59,20,1,685.000,-96,0
+3,60,20,1,705.000,-96,0
+3,61,20,1,650.000,-96,0
+3,62,20,1,670.000,-96,0
+3,63,20,1,725.000,-96,0
+3,64,20,1,1790.000,-96,0
+3,65,20,1,721.000,-96,0
+3,66,20,1,700.000,-96,0
+3,67,20,1,735.000,-96,0
+3,68,20,1,730.000,-96,0
+3,69,20,1,680.000,-96,0
+3,70,20,1,710.000,-96,0
+3,71,20,1,715.000,-96,0
+3,72,20,1,675.000,-96,0
+3,73,20,1,740.000,-96,0
+3,74,20,1,765.000,-96,0
+3,75,20,1,645.000,-96,0
+3,76,20,1,675.000,-96,0
+3,77,20,1,670.000,-96,0
+3,78,20,1,745.000,-96,0
+3,79,20,1,660.000,-96,0
+3,80,20,1,770.000,-96,0
+3,81,20,1,660.000,-96,0
+3,82,20,1,479.000,-96,0
+3,83,20,1,545.000,-96,0
+3,84,20,1,677.000,-96,0
+3,85,20,1,670.000,-96,0
+3,86,20,1,760.000,-96,0
+3,87,20,1,725.000,-96,0
+3,88,20,1,780.000,-96,0
+3,89,20,1,670.000,-96,0
+3,90,20,1,680.000,-96,0
+3,91,20,1,740.000,-96,0
+3,92,20,1,689.000,-96,0
+3,93,20,1,675.000,-96,0
+3,94,20,1,640.000,-96,0
+3,95,20,1,715.000,-82,0
+3,96,20,1,615.000,-82,0
+3,97,20,1,640.000,-82,0
+3,98,20,1,645.000,-82,0
+3,99,20,1,685.000,-82,0
+3,100,20,1,745.000,-82,0
+
+==================================
+HASIL S3
+==================================
+Total pesan : 100
+Berhasil    : 90
+Gagal       : 10
+PDR         : 90.00 %
+----------------------------------
+Mean RTT    : 746.311 ms
+Median RTT  : 687.000 ms
+Std Dev     : 344.663 ms
+P95 RTT     : 1045.000 ms
+==================================
